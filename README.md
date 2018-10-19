@@ -1,5 +1,7 @@
 # WordPress Speedtest
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/wordpress-speedtest.svg)](https://www.guardrails.io)
+
 WordPress speedtest with Sqlite3 on PHP-CLI. You only have to unpack it.
 
 ### Results
